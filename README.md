@@ -18,16 +18,14 @@ A star schema data model was designed to support efficient reporting and analyti
 
 ![Adventure Works Overview](Adventure%20Works%20Overview.png)
 
-The **Adventure Works Overview** dashboard provides a high-level summary of sales performance through key KPIs and interactive visualizations. It includes metrics such as Total Orders, Total Due, Freight, Tax, and Average Delivery Period, along with analyses of Online vs Offline Orders, Weekend vs Weekday Orders, sales trends over time, and geographic order distribution. The dashboard enables users to quickly evaluate business performance and identify key sales patterns across different regions and customer segments.
-
+The Adventure Works Overview dashboard provides a high-level summary of sales performance through key KPIs and interactive visualizations. It highlights important metrics such as Total Orders, Total Due, Freight, Tax, and Average Delivery Period, while also analyzing Online vs Offline Orders, Weekend vs Weekday Orders, sales trends over time, and geographic order distribution. This dashboard helps users quickly assess overall business performance and identify key sales patterns across different regions and customer segments.
 ---
 
 ### Adventure Works Analysis
 
 ![Adventure Works Analysis](Adventure%20Works%20Analysis.png)
 
-The **Adventure Works Analysis** dashboard offers a deeper view of operational and sales performance. It focuses on order fulfillment metrics, salesperson segmentation, product performance, and business entity analysis, allowing users to explore trends, identify top contributors, and gain actionable insights through interactive filtering and drill-down capabilities. The dashboard supports detailed investigation of business performance drivers and operational efficiency.
-
+The Adventure Works Analysis dashboard provides a detailed view of sales performance through key KPIs and interactive visualizations. It highlights important business metrics such as Total Orders, Total Due, Freight, Tax, and Average Delivery Period, while analyzing Online vs Offline Orders, Weekend vs Weekday Orders, sales trends over time, and geographic order distribution. The dashboard helps users evaluate overall performance, identify sales patterns, and gain insights across different regions and customer segments.
 ---
 
 ## Tools & Skills Used
