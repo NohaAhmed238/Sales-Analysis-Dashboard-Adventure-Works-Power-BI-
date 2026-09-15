@@ -27,7 +27,7 @@ The Adventure Works Analysis dashboard provides a detailed view of sales perform
 
 ![Adventure Works Analysis](Adventure%20Works%20Analysis%20Dashboard.png)
 
-The Adventure Works Analysis dashboard provides a detailed view of sales performance through key KPIs and interactive visualizations. It highlights important business metrics such as Total Orders, Total Due, Freight, Tax, and Average Delivery Period, while analyzing Online vs Offline Orders, Weekend vs Weekday Orders, sales trends over time, and geographic order distribution. The dashboard helps users evaluate overall performance, identify sales patterns, and gain insights across different regions and customer segments.
+The Adventure Works Analysis dashboard provides a detailed view of sales performance and order activity through key KPIs and interactive visualizations. It highlights important metrics such as shipped and delivered orders, Subtotal, Tax, and Total Due for 2012. The dashboard also analyzes orders by Sales Class, Business Entity, Product, and delivery trends across years. Interactive filters for product hierarchy, date, territory group, shipping method, and sales class allow users to explore performance from different perspectives and identify key sales and delivery patterns.
 
 ---
 
