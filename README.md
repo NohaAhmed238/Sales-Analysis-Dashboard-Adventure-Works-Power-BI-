@@ -14,14 +14,14 @@ A star schema data model was designed to support efficient reporting and analyti
 
 ## Dashboard Previews
 
-### Adventure Works Overview
+## Adventure Works Overview
 
 ![Adventure Works Overview](Adventure%20Works%20Overview.png)
 
 The Adventure Works Overview dashboard provides a high-level summary of sales performance through key KPIs and interactive visualizations. It highlights important metrics such as Total Orders, Total Due, Freight, Tax, and Average Delivery Period, while also analyzing Online vs Offline Orders, Weekend vs Weekday Orders, sales trends over time, and geographic order distribution. This dashboard helps users quickly assess overall business performance and identify key sales patterns across different regions and customer segments.
 ---
 
-### Adventure Works Analysis
+## Adventure Works Analysis
 
 ![Adventure Works Analysis](Adventure%20Works%20Analysis.png)
 
